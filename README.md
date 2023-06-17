@@ -1,15 +1,17 @@
-<h3 align = 'center'>Hi! I'm Alx 👋</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?size=27&center=true&vCenter=true&width=700&lines=Hi!+I'm+Alx" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?size=22&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!" />
 </p>
 
   ```diff
-  Web: nixcd.github.io
+  Web: alx.github.io
   ```
   ```diff
-  🔭 Working on @citizenfx
-  💻 I’m currently learning JavaScript, .Lua, C++.
+  🔧 Working on @Cfx.Re
+  💻 I’m currently learning JavaScript, .Lua, Html, Node.
   🌎 I've been with the development world since 2017.
   ```
 
@@ -17,16 +19,16 @@
 
 ### Stats
 
-![Snowflake107](https://github-readme-stats.vercel.app/api?username=NixCD&show_icons=true&theme=tokyonight&hide=["issues"])
+![Alx](https://github-readme-stats.vercel.app/api?username=AlexrxWindy&show_icons=true&bg_color=00000000)
 
-![Snowflake107](https://github-readme-stats.vercel.app/api/top-langs?username=NixCD&show_icons=true&theme=tokyonight&layout=compact)
+![Snowflake107](https://github-readme-stats.vercel.app/api/top-langs?username=AlexrxWindy&show_icons=true&theme=tokyonight&layout=compact)
     
 <hr>
 
 ## Contact
 <p align='center'>
-<a href="mailto:nix.cont@outlook.es"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/email_me.svg"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/nixcdev"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/twitter.svg"></a>&nbsp;&nbsp;   
+<a href="mailto:alexrxcontacto@gmail.com"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/email_me.svg"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/Aleexxrx"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/twitter.svg"></a>&nbsp;&nbsp;   
 </p>
 
 ## Languages
@@ -48,5 +50,5 @@
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/powershell.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/bash.svg" />
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/vmware.svg" />
+       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/docker.svg" />
    </p>
