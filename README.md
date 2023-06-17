@@ -1,4 +1,4 @@
-<h3 align = 'center'>Hi! I'm Nix 👋</h3>
+<h3 align = 'center'>Hi! I'm Alx 👋</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?size=22&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!" />
@@ -10,7 +10,7 @@
   ```diff
   🔭 Working on @citizenfx
   💻 I’m currently learning JavaScript, .Lua, C++.
-  🌎 I've been with the development world since 2018.
+  🌎 I've been with the development world since 2017.
   ```
 
 <hr>
