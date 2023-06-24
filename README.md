@@ -7,7 +7,7 @@
   ✨ Working on @Cfx.Re [FiveM] (GTAV).
   🧨 Founder of Olympia Network.
   💻 Actualmente estoy aprendiendo JavaScript, .Lua, Html, Node.
-  🌎 Llevo en el mundo del desarrollo desde 2015.
+  🌎 Llevo desarrollando desde 2015.
   ```
 
 <hr>
