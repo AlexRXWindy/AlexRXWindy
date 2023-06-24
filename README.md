@@ -6,8 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?size=22&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!" />
 </p>
 
-  ```diff
-  Web: alx.github.io
   ```
   ```diff
   🔧 Working on @Cfx.Re.
