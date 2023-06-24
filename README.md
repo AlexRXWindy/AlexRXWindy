@@ -4,8 +4,8 @@
 
 
   ```diff
-  ✨ Working on @Cfx.Re [FiveM] (GTAV).
-  🧨 Founder of Olympia Network.
+  ✨ Trabajando en la plataforma @Cfx.Re [FiveM] (GTAV).
+  🧨 Fundador de Olympia Network.
   💻 Actualmente estoy aprendiendo JavaScript, .Lua, Html, Node.
   🌎 Llevo desarrollando desde 2015.
   ```
