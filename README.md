@@ -11,7 +11,7 @@
   🔧 Working on @Cfx.Re.
   🧨 Founder of Olympia Network.
   💻 I’m currently learning JavaScript, .Lua, Html, Node.
-  🌎 I've been with the development world since 2017.
+  🌎 I've been with the development world since 2015.
   ```
 
 <hr>
