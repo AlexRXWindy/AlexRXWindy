@@ -4,7 +4,7 @@
 
 
   ```diff
-  🔧 Working on @Cfx.Re.
+  ✨ Working on @Cfx.Re [FiveM] (GTAV).
   🧨 Founder of Olympia Network.
   💻 I’m currently learning JavaScript, .Lua, Html, Node.
   🌎 I've been with the development world since 2015.
