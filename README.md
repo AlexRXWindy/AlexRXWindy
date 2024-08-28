@@ -25,7 +25,7 @@
 <a href="https://twitter.com/Aleexxrx"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/twitter.svg"></a>&nbsp;&nbsp;   
 </p>
 
-## Herramientras
+## Herramientas
 
    <p align="center">
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio.svg" />
