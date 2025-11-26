@@ -20,7 +20,7 @@ const ALX = {
     location: "Spain",
     currentRole: "Developer @ ESX TEAM",
     currentFocus: "ESX Framework & FiveM Development",
-    experience: "9+ years in software development",
+    experience: "5+ years in software development",
     platforms: ["Cfx.Re", "FiveM", "ESX Framework"],
     learning: ["JavaScript", "Lua", "Node.js", "HTML/CSS"],
     available: true
